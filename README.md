@@ -1,2 +1,1 @@
-# kmeans-spark
-Clustering music ratings with k-Means via MapReduce
+## Clustering music ratings with k-Means via MapReduce (Apache Spark)
